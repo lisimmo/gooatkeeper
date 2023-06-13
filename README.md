@@ -1,6 +1,6 @@
 # Goat Keeper API
 
-This API application is built with Ruby on Rails and allows users to manage animal records on a farm. It provides endpoints to create, read, update, and delete animal records, as well as perform various queries and filtering.
+This API application is built with Ruby on Rails and allows users to manage animal records on a farm. It provides endpoints to create, read, update, and delete goat, breeds and treatments records, as well as perform various queries and filtering.
 
 ## Getting Started
 
@@ -98,6 +98,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-If you have any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or inquiries, please contact [liljoeengr@gmail.com](mailto:liljoeengr@gmail.com).
 
 Happy farming! 🐮🐷🐔
